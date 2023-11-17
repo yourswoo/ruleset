@@ -2,6 +2,7 @@
 
 DOMAIN-SUFFIX,openai.com
 DOMAIN-SUFFIX,chat.openai.com
+DOMAIN-SUFFIX,oaistatic.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,bing.com
 DOMAIN-SUFFIX,bard.google.com
